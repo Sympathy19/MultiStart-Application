@@ -1,0 +1,9 @@
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Debug\AutoStart Applcations.exe.config
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Debug\AutoStart Applcations.exe
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Debug\AutoStart Applcations.pdb
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Debug\AutoStart Applcations.csprojAssemblyReference.cache
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Debug\AutoStart Applcations.exe
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Debug\AutoStart Applcations.pdb
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Debug\ItemLocation.txt
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Debug\AutoStart Applcations.csproj.ResolveComReference.cache

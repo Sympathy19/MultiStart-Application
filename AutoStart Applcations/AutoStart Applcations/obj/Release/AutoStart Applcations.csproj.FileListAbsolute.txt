@@ -1,0 +1,6 @@
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Release\ItemLocation.txt
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Release\AutoStart Applcations.exe.config
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Release\AutoStart Applcations.exe
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\bin\Release\AutoStart Applcations.pdb
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Release\AutoStart Applcations.exe
+D:\Other Programs\AutoStart Applcations\AutoStart Applcations\obj\Release\AutoStart Applcations.pdb
